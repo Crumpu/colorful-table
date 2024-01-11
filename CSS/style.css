@@ -23,7 +23,8 @@ tr:nth-child(even){
   background-color: rgba(199, 207, 207, 0.472);
 }
 
-td:hover{
+td:hover,
+th:hover{
   box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 1);
 }
 
